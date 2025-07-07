@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mzf8lj3sl-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mzf8lj3sl-dotnet-basic
